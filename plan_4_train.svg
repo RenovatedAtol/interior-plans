@@ -114,7 +114,7 @@
 <circle cx="750" cy="7660" r="90" fill="#333" stroke="#111" stroke-width="8"/>
 <circle cx="450" cy="7940" r="90" fill="#333" stroke="#111" stroke-width="8"/>
 <circle cx="750" cy="7940" r="90" fill="#333" stroke="#111" stroke-width="8"/>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="42" fill="#fff" font-weight="bold" text-anchor="middle"><tspan x="1200" y="7624.7">◄ газовая плита 60</tspan></text>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="42" fill="#fff" font-weight="bold" text-anchor="middle"><tspan x="1200" y="7624.7">◄ газ. панель + духовка 60</tspan></text>
 <rect x="1600" y="6640" width="400" height="360" rx="60" fill="#e9eef2" stroke="#555" stroke-width="10" opacity="1"/>
 <text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="65" fill="#222" font-weight="normal" text-anchor="middle" transform="rotate(-90 1800 6820)"><tspan x="1800" y="6842.75">мойка</tspan></text>
 <rect x="1520" y="7030" width="560" height="450" rx="10" fill="#dbe4ff" stroke="#364fc7" stroke-width="12" opacity="1"/>

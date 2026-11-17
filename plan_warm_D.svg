@@ -130,7 +130,7 @@
 <circle cx="1200" cy="7660" r="90" fill="#333" stroke="#111" stroke-width="8"/>
 <circle cx="900" cy="7940" r="90" fill="#333" stroke="#111" stroke-width="8"/>
 <circle cx="1200" cy="7940" r="90" fill="#333" stroke="#111" stroke-width="8"/>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="45" fill="#222" font-weight="bold" text-anchor="middle"><tspan x="1050" y="7415.75">газовая плита 60</tspan></text>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="42" fill="#222" font-weight="bold" text-anchor="middle"><tspan x="1050" y="7414.7">газ. панель + духовка</tspan></text>
 <text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="50" fill="#222" font-weight="normal" text-anchor="middle"><tspan x="300" y="7817.5">угол</tspan></text>
 <rect x="1600" y="6600" width="400" height="380" rx="60" fill="#e9eef2" stroke="#555" stroke-width="10" opacity="1"/>
 <text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="60" fill="#222" font-weight="normal" text-anchor="middle" transform="rotate(-90 1800 6790)"><tspan x="1800" y="6811.0">мойка</tspan></text>

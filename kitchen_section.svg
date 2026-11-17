@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-320 -230 2450 3150" width="1225" height="1575"><rect x="-320" y="-230" width="2450" height="3150" fill="#ffffff"/>
+<rect x="-250" y="0" width="250" height="2850" rx="0" fill="#2b2b2b" stroke="none" stroke-width="12" opacity="1"/>
+<rect x="-250" y="2700" width="1950" height="150" rx="0" fill="#2b2b2b" stroke="none" stroke-width="12" opacity="1"/>
+<rect x="-250" y="0" width="1950" height="150" rx="0" fill="#2b2b2b" stroke="none" stroke-width="12" opacity="1"/>
+<rect x="0" y="150" width="1700" height="2550" rx="0" fill="#f4f3f1" stroke="none" stroke-width="12" opacity="1"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="55" fill="#fff" font-weight="normal" text-anchor="middle"><tspan x="850" y="99.25">потолок ≈ 2,5–2,6 м</tspan></text>
+<rect x="60" y="2430" width="500" height="250" rx="0" fill="#e9ecef" stroke="#555" stroke-width="10" opacity="1"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="40" fill="#222" font-weight="normal" text-anchor="middle"><tspan x="310" y="2569.0">ящик в цоколе</tspan></text>
+<rect x="0" y="1710" width="580" height="720" rx="0" fill="#d2d2d2" stroke="#555" stroke-width="10" opacity="1"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="40" fill="#222" font-weight="normal" text-anchor="middle"><tspan x="290" y="2036.0">корпус 72 см:</tspan><tspan x="290" y="2084.0">посудомойка на подиуме</tspan><tspan x="290" y="2132.0">или духовка</tspan></text>
+<rect x="0" y="1670" width="620" height="40" rx="0" fill="#b08d5b" stroke="#555" stroke-width="10" opacity="1"/>
+<rect x="140" y="1645" width="380" height="25" rx="0" fill="#333" stroke="none" stroke-width="12" opacity="1"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="38" fill="#333" font-weight="normal" text-anchor="middle"><tspan x="330" y="1613.3">газовая панель</tspan></text>
+<rect x="0" y="150" width="350" height="920" rx="0" fill="#e3e3e3" stroke="#555" stroke-width="10" opacity="1"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="40" fill="#222" font-weight="normal" text-anchor="middle"><tspan x="175" y="576.0">верхние</tspan><tspan x="175" y="624.0">шкафы</tspan><tspan x="175" y="672.0">до потолка</tspan></text>
+<rect x="0" y="920" width="320" height="150" rx="0" fill="none" stroke="#555" stroke-width="8" opacity="1" stroke-dasharray="30,20"/>
+<rect x="0" y="920" width="320" height="40" rx="0" fill="#adb5bd" stroke="#555" stroke-width="8" opacity="1"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="38" fill="#222" font-weight="normal" text-anchor="start"><tspan x="340" y="873.3">↓ вытяжка над газом</tspan></text>
+<circle cx="30" cy="1500" r="26" fill="#e8590c" stroke="#222" stroke-width="6"/>
+<circle cx="950" cy="915" r="110" fill="none" stroke="#868e96" stroke-width="14"/>
+<path d="M950,1025 L950,1750 L910,2700 M950,1750 L990,2700" fill="none" stroke="#868e96" stroke-width="14"/>
+<path d="M950,1180 L890,1510 L560,1610" fill="none" stroke="#868e96" stroke-width="14" stroke-linejoin="round"/>
+<circle cx="890" cy="1510" r="22" fill="#868e96" stroke="none" stroke-width="0"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="40" fill="#868e96" font-weight="bold" text-anchor="start"><tspan x="1090" y="1594.0">локоть ≈ 118–120</tspan></text>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="40" fill="#868e96" font-weight="bold" text-anchor="start"><tspan x="1090" y="834.0">рост ≈ 190</tspan></text>
+<line x1="1460" y1="2430" x2="1540" y2="2430" stroke="#2e7d4f" stroke-width="8"/>
+<line x1="60" y1="2430" x2="1500" y2="2430" stroke="#2e7d4f" stroke-width="4" stroke-dasharray="20,20"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="44" fill="#2e7d4f" font-weight="bold" text-anchor="start"><tspan x="1560" y="2445.4">цоколь 27</tspan></text>
+<line x1="1460" y1="1670" x2="1540" y2="1670" stroke="#2e7d4f" stroke-width="8"/>
+<line x1="600" y1="1670" x2="1500" y2="1670" stroke="#2e7d4f" stroke-width="4" stroke-dasharray="20,20"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="44" fill="#2e7d4f" font-weight="bold" text-anchor="start"><tspan x="1560" y="1685.4">столешница 103</tspan></text>
+<line x1="1460" y1="1500" x2="1540" y2="1500" stroke="#2e7d4f" stroke-width="8"/>
+<line x1="60" y1="1500" x2="1500" y2="1500" stroke="#2e7d4f" stroke-width="4" stroke-dasharray="20,20"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="44" fill="#2e7d4f" font-weight="bold" text-anchor="start"><tspan x="1560" y="1515.4">розетки 120</tspan></text>
+<line x1="1460" y1="1070" x2="1540" y2="1070" stroke="#2e7d4f" stroke-width="8"/>
+<line x1="600" y1="1070" x2="1500" y2="1070" stroke="#2e7d4f" stroke-width="4" stroke-dasharray="20,20"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="44" fill="#2e7d4f" font-weight="bold" text-anchor="start"><tspan x="1560" y="1085.4">низ шкафов 163</tspan></text>
+<line x1="1460" y1="920" x2="1540" y2="920" stroke="#2e7d4f" stroke-width="8"/>
+<line x1="600" y1="920" x2="1500" y2="920" stroke="#2e7d4f" stroke-width="4" stroke-dasharray="20,20"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="44" fill="#2e7d4f" font-weight="bold" text-anchor="start"><tspan x="1560" y="935.4">вытяжка 178</tspan></text>
+<line x1="1500" y1="2700" x2="1500" y2="150" stroke="#2e7d4f" stroke-width="8"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="75" fill="#222" font-weight="bold" text-anchor="start"><tspan x="-300" y="-93.75">Кухня в разрезе: высоты под рост ~190 см</tspan></text>
+</svg>
