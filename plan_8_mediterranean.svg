@@ -137,11 +137,11 @@
 <line x1="3400" y1="8010" x2="3400" y2="8090" stroke="#c92a2a" stroke-width="6"/>
 <line x1="3470" y1="8010" x2="3470" y2="8090" stroke="#c92a2a" stroke-width="6"/>
 <text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="50" fill="#c92a2a" font-weight="bold" text-anchor="middle"><tspan x="3280" y="7947.5">змейка</tspan></text>
-<rect x="2200" y="6600" width="600" height="600" rx="30" fill="#ffffff" stroke="#444" stroke-width="12" opacity="1"/>
-<circle cx="2500" cy="6900" r="200" fill="#e8eef2" stroke="#666" stroke-width="10"/>
-<ellipse cx="2500" cy="6900" rx="270" ry="250" fill="none" stroke="#b08d5b" stroke-width="16"/>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="65" fill="#222" font-weight="normal" text-anchor="middle"><tspan x="2500" y="6922.75">стир.</tspan></text>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="40" fill="#333" font-weight="normal" text-anchor="middle"><tspan x="2500" y="7144.0">раковина над стиралкой</tspan></text>
+<rect x="2200" y="6580" width="600" height="600" rx="30" fill="#ffffff" stroke="#444" stroke-width="12" opacity="1"/>
+<circle cx="2500" cy="6860" r="200" fill="#e8eef2" stroke="#666" stroke-width="10"/>
+<ellipse cx="2500" cy="6860" rx="270" ry="250" fill="none" stroke="#b08d5b" stroke-width="16"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="46" fill="#222" font-weight="normal" text-anchor="middle"><tspan x="2500" y="6848.5">стир.</tspan><tspan x="2500" y="6903.7">60×45×85</tspan></text>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="38" fill="#333" font-weight="normal" text-anchor="middle"><tspan x="2500" y="7153.3">под раковиной 60×60</tspan></text>
 <rect x="3620" y="7880" width="845" height="220" rx="0" fill="#b08d5b" stroke="#555" stroke-width="8" opacity="1"/>
 <ellipse cx="4040" cy="7600" rx="180" ry="260" fill="#ffffff" stroke="#555" stroke-width="10"/>
 <text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="80" fill="#333" font-weight="bold" text-anchor="middle"><tspan x="4040" y="7288.0">туалет</tspan></text>

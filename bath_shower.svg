@@ -24,11 +24,11 @@
 <line x1="3000" y1="7180" x2="3000" y2="7380" stroke="#4a7c99" stroke-width="30"/>
 <circle cx="2600" cy="7900" r="50" fill="#4a7c99" stroke="none" stroke-width="0"/>
 <text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="60" fill="#2d5870" font-weight="normal" text-anchor="middle"><tspan x="2600" y="7585.0">душ с трапом</tspan><tspan x="2600" y="7657.0">800×920</tspan></text>
-<rect x="2200" y="6600" width="600" height="580" rx="30" fill="#ffffff" stroke="#444" stroke-width="12" opacity="1"/>
-<circle cx="2500" cy="6890" r="200" fill="#e8eef2" stroke="#666" stroke-width="10"/>
-<ellipse cx="2500" cy="6890" rx="270" ry="250" fill="none" stroke="#888" stroke-width="16"/>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="65" fill="#222" font-weight="normal" text-anchor="middle"><tspan x="2500" y="6912.75">стир.</tspan></text>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="40" fill="#333" font-weight="normal" text-anchor="middle"><tspan x="2500" y="7144.0">раковина над стиралкой</tspan></text>
+<rect x="2200" y="6580" width="600" height="600" rx="30" fill="#ffffff" stroke="#444" stroke-width="12" opacity="1"/>
+<circle cx="2500" cy="6860" r="200" fill="#e8eef2" stroke="#666" stroke-width="10"/>
+<ellipse cx="2500" cy="6860" rx="270" ry="250" fill="none" stroke="#888" stroke-width="16"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="46" fill="#222" font-weight="normal" text-anchor="middle"><tspan x="2500" y="6848.5">стир.</tspan><tspan x="2500" y="6903.7">60×45×85</tspan></text>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="38" fill="#333" font-weight="normal" text-anchor="middle"><tspan x="2500" y="7153.3">под раковиной 60×60</tspan></text>
 <rect x="3620" y="7880" width="845" height="220" rx="0" fill="#d2d2d2" stroke="#555" stroke-width="8" opacity="1"/>
 <ellipse cx="4040" cy="7600" rx="180" ry="260" fill="#ffffff" stroke="#555" stroke-width="10"/>
 <line x1="3720" y1="6580" x2="3720.0" y2="7180.0" stroke="#333" stroke-width="20"/>
