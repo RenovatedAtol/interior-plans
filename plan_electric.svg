@@ -47,6 +47,42 @@
 <line x1="-125.0" y1="3730" x2="-125.0" y2="4830" stroke="#5a9fd4" stroke-width="10"/>
 <rect x="-250" y="6600" width="250" height="900" rx="0" fill="#dff0fb" stroke="#333" stroke-width="8" opacity="1"/>
 <line x1="-125.0" y1="6600" x2="-125.0" y2="7500" stroke="#5a9fd4" stroke-width="10"/>
+<rect x="15" y="1350" width="80" height="1050" rx="0" fill="#ffc9c9" stroke="#c92a2a" stroke-width="8" opacity="1"/>
+<line x1="15" y1="1410" x2="95" y2="1410" stroke="#c92a2a" stroke-width="4"/>
+<line x1="15" y1="1500" x2="95" y2="1500" stroke="#c92a2a" stroke-width="4"/>
+<line x1="15" y1="1590" x2="95" y2="1590" stroke="#c92a2a" stroke-width="4"/>
+<line x1="15" y1="1680" x2="95" y2="1680" stroke="#c92a2a" stroke-width="4"/>
+<line x1="15" y1="1770" x2="95" y2="1770" stroke="#c92a2a" stroke-width="4"/>
+<line x1="15" y1="1860" x2="95" y2="1860" stroke="#c92a2a" stroke-width="4"/>
+<line x1="15" y1="1950" x2="95" y2="1950" stroke="#c92a2a" stroke-width="4"/>
+<line x1="15" y1="2040" x2="95" y2="2040" stroke="#c92a2a" stroke-width="4"/>
+<line x1="15" y1="2130" x2="95" y2="2130" stroke="#c92a2a" stroke-width="4"/>
+<line x1="15" y1="2220" x2="95" y2="2220" stroke="#c92a2a" stroke-width="4"/>
+<line x1="15" y1="2310" x2="95" y2="2310" stroke="#c92a2a" stroke-width="4"/>
+<rect x="15" y="3800" width="80" height="960" rx="0" fill="#ffc9c9" stroke="#c92a2a" stroke-width="8" opacity="1"/>
+<line x1="15" y1="3860" x2="95" y2="3860" stroke="#c92a2a" stroke-width="4"/>
+<line x1="15" y1="3950" x2="95" y2="3950" stroke="#c92a2a" stroke-width="4"/>
+<line x1="15" y1="4040" x2="95" y2="4040" stroke="#c92a2a" stroke-width="4"/>
+<line x1="15" y1="4130" x2="95" y2="4130" stroke="#c92a2a" stroke-width="4"/>
+<line x1="15" y1="4220" x2="95" y2="4220" stroke="#c92a2a" stroke-width="4"/>
+<line x1="15" y1="4310" x2="95" y2="4310" stroke="#c92a2a" stroke-width="4"/>
+<line x1="15" y1="4400" x2="95" y2="4400" stroke="#c92a2a" stroke-width="4"/>
+<line x1="15" y1="4490" x2="95" y2="4490" stroke="#c92a2a" stroke-width="4"/>
+<line x1="15" y1="4580" x2="95" y2="4580" stroke="#c92a2a" stroke-width="4"/>
+<line x1="15" y1="4670" x2="95" y2="4670" stroke="#c92a2a" stroke-width="4"/>
+<rect x="15" y="6700" width="80" height="700" rx="0" fill="#ffc9c9" stroke="#c92a2a" stroke-width="8" opacity="1"/>
+<line x1="15" y1="6760" x2="95" y2="6760" stroke="#c92a2a" stroke-width="4"/>
+<line x1="15" y1="6850" x2="95" y2="6850" stroke="#c92a2a" stroke-width="4"/>
+<line x1="15" y1="6940" x2="95" y2="6940" stroke="#c92a2a" stroke-width="4"/>
+<line x1="15" y1="7030" x2="95" y2="7030" stroke="#c92a2a" stroke-width="4"/>
+<line x1="15" y1="7120" x2="95" y2="7120" stroke="#c92a2a" stroke-width="4"/>
+<line x1="15" y1="7210" x2="95" y2="7210" stroke="#c92a2a" stroke-width="4"/>
+<line x1="15" y1="7300" x2="95" y2="7300" stroke="#c92a2a" stroke-width="4"/>
+<line x1="15" y1="7390" x2="95" y2="7390" stroke="#c92a2a" stroke-width="4"/>
+<circle cx="70" cy="70" r="55" fill="#c92a2a" stroke="#fff" stroke-width="10"/>
+<circle cx="70" cy="3110" r="55" fill="#c92a2a" stroke="#fff" stroke-width="10"/>
+<path d="M70,125 L70,1350" stroke="#c92a2a" stroke-width="10" stroke-dasharray="40,30" fill="none"/>
+<path d="M70,3165 L70,3800" stroke="#c92a2a" stroke-width="10" stroke-dasharray="40,30" fill="none"/>
 <rect x="0" y="2940" width="3588" height="100" rx="0" fill="#2b2b2b" stroke="none" stroke-width="12" opacity="1"/>
 <rect x="0" y="5520" width="3688" height="100" rx="0" fill="#2b2b2b" stroke="none" stroke-width="12" opacity="1"/>
 <rect x="3588" y="0" width="100" height="2150" rx="0" fill="#2b2b2b" stroke="none" stroke-width="12" opacity="1"/>
@@ -73,25 +109,39 @@
 <rect x="3692" y="2920" width="43" height="800" rx="0" fill="#cfe3f1" stroke="#333" stroke-width="8" opacity="1"/>
 <rect x="0" y="7500" width="2100" height="600" rx="30" fill="#d6d6d6" stroke="#444" stroke-width="12" opacity="1"/>
 <rect x="1500" y="6580" width="600" height="920" rx="30" fill="#d6d6d6" stroke="#444" stroke-width="12" opacity="1"/>
-<circle cx="450" cy="7650" r="95" fill="#333" stroke="#111" stroke-width="8"/>
-<circle cx="750" cy="7650" r="95" fill="#333" stroke="#111" stroke-width="8"/>
-<circle cx="450" cy="7950" r="95" fill="#333" stroke="#111" stroke-width="8"/>
-<circle cx="750" cy="7950" r="95" fill="#333" stroke="#111" stroke-width="8"/>
-<rect x="1600" y="6800" width="400" height="450" rx="60" fill="#e9eef2" stroke="#555" stroke-width="10" opacity="1"/>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="75" fill="#222" font-weight="normal" text-anchor="middle" transform="rotate(-90 1800 7025)"><tspan x="1800" y="7051.25">мойка</tspan></text>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="70" fill="#222" font-weight="normal" text-anchor="middle"><tspan x="1800" y="7424.5">ПММ</tspan></text>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="75" fill="#222" font-weight="normal" text-anchor="middle"><tspan x="1650" y="7826.25">столешница</tspan></text>
+<rect x="300" y="7520" width="600" height="560" rx="20" fill="#f1f3f5" stroke="#444" stroke-width="12" opacity="1"/>
+<circle cx="450" cy="7660" r="90" fill="#333" stroke="#111" stroke-width="8"/>
+<circle cx="750" cy="7660" r="90" fill="#333" stroke="#111" stroke-width="8"/>
+<circle cx="450" cy="7940" r="90" fill="#333" stroke="#111" stroke-width="8"/>
+<circle cx="750" cy="7940" r="90" fill="#333" stroke="#111" stroke-width="8"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="42" fill="#222" font-weight="bold" text-anchor="middle"><tspan x="1200" y="7624.7">◄ газовая плита 60</tspan></text>
+<rect x="1600" y="6640" width="400" height="360" rx="60" fill="#e9eef2" stroke="#555" stroke-width="10" opacity="1"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="65" fill="#222" font-weight="normal" text-anchor="middle" transform="rotate(-90 1800 6820)"><tspan x="1800" y="6842.75">мойка</tspan></text>
+<rect x="1520" y="7030" width="560" height="450" rx="10" fill="#dbe4ff" stroke="#364fc7" stroke-width="12" opacity="1"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="50" fill="#1c3a8a" font-weight="bold" text-anchor="middle"><tspan x="1800" y="7242.5">посудо-</tspan><tspan x="1800" y="7302.5">мойка 45</tspan></text>
 <rect x="0" y="5620" width="600" height="650" rx="10" fill="#f2f2f2" stroke="#444" stroke-width="12" opacity="1"/>
 <text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="80" fill="#222" font-weight="normal" text-anchor="middle"><tspan x="300.0" y="5925.0">холо-</tspan><tspan x="300.0" y="6021.0">дильник</tspan></text>
-<rect x="2200" y="7300" width="1320" height="800" rx="0" fill="#cfe4ef" stroke="#4a7c99" stroke-width="12" opacity="1"/>
-<line x1="2200" y1="7300" x2="2950" y2="7300" stroke="#4a7c99" stroke-width="30"/>
-<circle cx="2860" cy="7900" r="50" fill="#4a7c99" stroke="none" stroke-width="0"/>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="70" fill="#2d5870" font-weight="normal" text-anchor="middle"><tspan x="2860" y="7644.5">душ с трапом 1320×800</tspan></text>
+<line x1="2150" y1="5620" x2="1350.0" y2="5620.0" stroke="#333" stroke-width="20"/>
+<path d="M2150,6420 A800,800 0 0,1 1350,5620" fill="none" stroke="#888" stroke-width="8" stroke-dasharray="40,30"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="50" fill="#c92a2a" font-weight="bold" text-anchor="middle"><tspan x="1650" y="5777.5">дверь (газ)</tspan></text>
+<rect x="2200" y="7180" width="800" height="920" rx="0" fill="#cfe4ef" stroke="#4a7c99" stroke-width="12" opacity="1"/>
+<line x1="2200" y1="7180" x2="3000" y2="7180" stroke="#4a7c99" stroke-width="30"/>
+<line x1="3000" y1="7180" x2="3000" y2="7380" stroke="#4a7c99" stroke-width="30"/>
+<circle cx="2600" cy="7900" r="50" fill="#4a7c99" stroke="none" stroke-width="0"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="60" fill="#2d5870" font-weight="normal" text-anchor="middle"><tspan x="2600" y="7585.0">душ с трапом</tspan><tspan x="2600" y="7657.0">800×920</tspan></text>
+<rect x="3080" y="8010" width="400" height="80" rx="10" fill="#ffe3e3" stroke="#c92a2a" stroke-width="10" opacity="1"/>
+<line x1="3120" y1="8010" x2="3120" y2="8090" stroke="#c92a2a" stroke-width="6"/>
+<line x1="3190" y1="8010" x2="3190" y2="8090" stroke="#c92a2a" stroke-width="6"/>
+<line x1="3260" y1="8010" x2="3260" y2="8090" stroke="#c92a2a" stroke-width="6"/>
+<line x1="3330" y1="8010" x2="3330" y2="8090" stroke="#c92a2a" stroke-width="6"/>
+<line x1="3400" y1="8010" x2="3400" y2="8090" stroke="#c92a2a" stroke-width="6"/>
+<line x1="3470" y1="8010" x2="3470" y2="8090" stroke="#c92a2a" stroke-width="6"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="50" fill="#c92a2a" font-weight="bold" text-anchor="middle"><tspan x="3280" y="7947.5">змейка</tspan></text>
 <rect x="2200" y="6600" width="600" height="600" rx="30" fill="#ffffff" stroke="#444" stroke-width="12" opacity="1"/>
 <circle cx="2500" cy="6900" r="200" fill="#e8eef2" stroke="#666" stroke-width="10"/>
 <ellipse cx="2500" cy="6900" rx="270" ry="250" fill="none" stroke="#cfcfcf" stroke-width="16"/>
 <text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="65" fill="#222" font-weight="normal" text-anchor="middle"><tspan x="2500" y="6922.75">стир.</tspan></text>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="45" fill="#333" font-weight="normal" text-anchor="middle"><tspan x="2500" y="7270.75">раковина над стиралкой</tspan></text>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="40" fill="#333" font-weight="normal" text-anchor="middle"><tspan x="2500" y="7144.0">раковина над стиралкой</tspan></text>
 <rect x="3620" y="7880" width="845" height="220" rx="0" fill="#cfcfcf" stroke="#555" stroke-width="8" opacity="1"/>
 <ellipse cx="4040" cy="7600" rx="180" ry="260" fill="#ffffff" stroke="#555" stroke-width="10"/>
 <text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="80" fill="#333" font-weight="bold" text-anchor="middle"><tspan x="4040" y="7288.0">туалет</tspan></text>
@@ -115,18 +165,18 @@
 <text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="84.0" fill="#666" font-weight="normal" text-anchor="middle"><tspan x="4450" y="2767.4">1,92 × 4,5 м</tspan></text>
 <text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="105" fill="#333" font-weight="bold" text-anchor="middle"><tspan x="1000" y="5916.75">кухня 5,2 м²</tspan></text>
 <text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="73.5" fill="#666" font-weight="normal" text-anchor="middle"><tspan x="1000" y="6026.475">2,10 × 2,48</tspan></text>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="70" fill="#333" font-weight="bold" text-anchor="middle"><tspan x="3330" y="7224.5">с/у</tspan></text>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="70" fill="#333" font-weight="bold" text-anchor="middle"><tspan x="3260" y="7424.5">с/у</tspan></text>
 <rect x="760" y="0" width="1600" height="800" rx="20" fill="#cfcfcf" stroke="#444" stroke-width="12" opacity="1"/>
 <rect x="1010.0" y="70" width="1100.0" height="80" rx="20" fill="#222" stroke="none" stroke-width="0" opacity="1"/>
 <rect x="1310.0" y="330" width="500.0" height="140" rx="20" fill="#888" stroke="none" stroke-width="0" opacity="1"/>
 <text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="80" fill="#222" font-weight="normal" text-anchor="middle"><tspan x="1560.0" y="698.0">стол для ПК 1600×800</tspan></text>
 <rect x="1320" y="860" width="480" height="480" rx="60" fill="#9a9a9a" stroke="#444" stroke-width="10" opacity="1"/>
-<rect x="2988" y="0" width="600" height="1900" rx="0" fill="#e3e3e3" stroke="#444" stroke-width="12" opacity="1"/>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="80" fill="#222" font-weight="normal" text-anchor="middle" transform="rotate(-90 3288.0 950.0)"><tspan x="3288.0" y="978.0">шкаф-купе 600×1900</tspan></text>
-<rect x="300" y="1740" width="2000" height="1200" rx="40" fill="#b9b9b9" stroke="#444" stroke-width="14" opacity="1"/>
-<rect x="560" y="1800" width="1680" height="1080" rx="30" fill="#ececec" stroke="#666" stroke-width="8" opacity="1"/>
-<rect x="360" y="1820" width="170" height="1040" rx="40" fill="#ffffff" stroke="#888" stroke-width="8" opacity="1"/>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="95" fill="#222" font-weight="normal" text-anchor="middle"><tspan x="1400.0" y="2316.25">кровать 120×200</tspan><tspan x="1400.0" y="2430.25">с ящиками</tspan></text>
+<rect x="2988" y="0" width="600" height="1700" rx="0" fill="#e3e3e3" stroke="#444" stroke-width="12" opacity="1"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="80" fill="#222" font-weight="normal" text-anchor="middle" transform="rotate(-90 3288.0 850.0)"><tspan x="3288.0" y="878.0">шкаф-купе 600×1700</tspan></text>
+<rect x="500" y="1740" width="2000" height="1200" rx="40" fill="#b9b9b9" stroke="#444" stroke-width="14" opacity="1"/>
+<rect x="760" y="1800" width="1680" height="1080" rx="30" fill="#ececec" stroke="#666" stroke-width="8" opacity="1"/>
+<rect x="560" y="1820" width="170" height="1040" rx="40" fill="#ffffff" stroke="#888" stroke-width="8" opacity="1"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="95" fill="#222" font-weight="normal" text-anchor="middle"><tspan x="1600.0" y="2316.25">кровать 120×200</tspan><tspan x="1600.0" y="2430.25">с ящиками</tspan></text>
 <text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="80" fill="#222" font-weight="bold" text-anchor="start"><tspan x="60" y="1328.0">спальня 1 · 10,5 м²</tspan></text>
 <rect x="0" y="3040" width="1800" height="700" rx="20" fill="#cfcfcf" stroke="#444" stroke-width="12" opacity="1"/>
 <rect x="350.0" y="3110" width="1100.0" height="80" rx="20" fill="#222" stroke="none" stroke-width="0" opacity="1"/>
@@ -209,8 +259,8 @@
 <line x1="60" y1="430" x2="130" y2="360" stroke="#222222" stroke-width="10"/>
 <circle cx="3530" cy="4640" r="40" fill="#222222" stroke="none" stroke-width="0"/>
 <line x1="3530" y1="4640" x2="3600" y2="4570" stroke="#222222" stroke-width="10"/>
-<circle cx="1900" cy="5680" r="40" fill="#222222" stroke="none" stroke-width="0"/>
-<line x1="1900" y1="5680" x2="1970" y2="5610" stroke="#222222" stroke-width="10"/>
+<circle cx="1900" cy="6380" r="40" fill="#222222" stroke="none" stroke-width="0"/>
+<line x1="1900" y1="6380" x2="1970" y2="6310" stroke="#222222" stroke-width="10"/>
 <circle cx="3560" cy="6420" r="40" fill="#222222" stroke="none" stroke-width="0"/>
 <line x1="3560" y1="6420" x2="3630" y2="6350" stroke="#222222" stroke-width="10"/>
 <circle cx="3620" cy="6420" r="40" fill="#222222" stroke="none" stroke-width="0"/>
@@ -261,28 +311,28 @@
 <text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="64" fill="#e8590c" font-weight="bold" text-anchor="middle"><tspan x="250" y="6242.4">9</tspan></text>
 <circle cx="1300" cy="8060" r="55" fill="#e8590c" stroke="#222" stroke-width="8"/>
 <line x1="1275" y1="8060" x2="1325" y2="8060" stroke="#fff" stroke-width="10"/>
-<circle cx="1300" cy="7860" r="68" fill="#ffffff" stroke="#e8590c" stroke-width="12"/>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="64" fill="#e8590c" font-weight="bold" text-anchor="middle"><tspan x="1300" y="7882.4">10</tspan></text>
+<circle cx="1300" cy="7830" r="68" fill="#ffffff" stroke="#e8590c" stroke-width="12"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="64" fill="#e8590c" font-weight="bold" text-anchor="middle"><tspan x="1300" y="7852.4">10</tspan></text>
 <circle cx="1750" cy="8060" r="55" fill="#e8590c" stroke="#222" stroke-width="8"/>
 <line x1="1725" y1="8060" x2="1775" y2="8060" stroke="#fff" stroke-width="10"/>
-<circle cx="1930" cy="7860" r="68" fill="#ffffff" stroke="#e8590c" stroke-width="12"/>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="64" fill="#e8590c" font-weight="bold" text-anchor="middle"><tspan x="1930" y="7882.4">11</tspan></text>
-<circle cx="300" cy="8060" r="55" fill="#e8590c" stroke="#222" stroke-width="8"/>
-<line x1="275" y1="8060" x2="325" y2="8060" stroke="#fff" stroke-width="10"/>
-<circle cx="270" cy="7850" r="68" fill="#ffffff" stroke="#e8590c" stroke-width="12"/>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="64" fill="#e8590c" font-weight="bold" text-anchor="middle"><tspan x="270" y="7872.4">12</tspan></text>
-<circle cx="2060" cy="6650" r="55" fill="#e8590c" stroke="#222" stroke-width="8"/>
-<line x1="2035" y1="6650" x2="2085" y2="6650" stroke="#fff" stroke-width="10"/>
-<circle cx="1840" cy="6650" r="68" fill="#ffffff" stroke="#e8590c" stroke-width="12"/>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="64" fill="#e8590c" font-weight="bold" text-anchor="middle"><tspan x="1840" y="6672.4">13</tspan></text>
-<circle cx="950" cy="8060" r="55" fill="#e8590c" stroke="#222" stroke-width="8"/>
-<line x1="925" y1="8060" x2="975" y2="8060" stroke="#fff" stroke-width="10"/>
-<circle cx="1010" cy="7680" r="68" fill="#ffffff" stroke="#e8590c" stroke-width="12"/>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="64" fill="#e8590c" font-weight="bold" text-anchor="middle"><tspan x="1010" y="7702.4">14</tspan></text>
+<circle cx="1950" cy="7830" r="68" fill="#ffffff" stroke="#e8590c" stroke-width="12"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="64" fill="#e8590c" font-weight="bold" text-anchor="middle"><tspan x="1950" y="7852.4">11</tspan></text>
 <circle cx="600" cy="8060" r="55" fill="#e8590c" stroke="#222" stroke-width="8"/>
 <line x1="575" y1="8060" x2="625" y2="8060" stroke="#fff" stroke-width="10"/>
-<circle cx="340" cy="7660" r="68" fill="#ffffff" stroke="#e8590c" stroke-width="12"/>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="64" fill="#e8590c" font-weight="bold" text-anchor="middle"><tspan x="340" y="7682.4">15</tspan></text>
+<circle cx="320" cy="7730" r="68" fill="#ffffff" stroke="#e8590c" stroke-width="12"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="64" fill="#e8590c" font-weight="bold" text-anchor="middle"><tspan x="320" y="7752.4">12</tspan></text>
+<circle cx="2060" cy="7560" r="55" fill="#e8590c" stroke="#222" stroke-width="8"/>
+<line x1="2035" y1="7560" x2="2085" y2="7560" stroke="#fff" stroke-width="10"/>
+<circle cx="1800" cy="7690" r="68" fill="#ffffff" stroke="#e8590c" stroke-width="12"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="64" fill="#e8590c" font-weight="bold" text-anchor="middle"><tspan x="1800" y="7712.4">13</tspan></text>
+<circle cx="1050" cy="8060" r="55" fill="#e8590c" stroke="#222" stroke-width="8"/>
+<line x1="1025" y1="8060" x2="1075" y2="8060" stroke="#fff" stroke-width="10"/>
+<circle cx="1140" cy="7640" r="68" fill="#ffffff" stroke="#e8590c" stroke-width="12"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="64" fill="#e8590c" font-weight="bold" text-anchor="middle"><tspan x="1140" y="7662.4">14</tspan></text>
+<circle cx="4430" cy="7700" r="55" fill="#e8590c" stroke="#222" stroke-width="8"/>
+<line x1="4405" y1="7700" x2="4455" y2="7700" stroke="#fff" stroke-width="10"/>
+<circle cx="4370" cy="7440" r="68" fill="#ffffff" stroke="#e8590c" stroke-width="12"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="64" fill="#e8590c" font-weight="bold" text-anchor="middle"><tspan x="4370" y="7462.4">15</tspan></text>
 <circle cx="2240" cy="6630" r="55" fill="#e8590c" stroke="#222" stroke-width="8"/>
 <line x1="2215" y1="6630" x2="2265" y2="6630" stroke="#fff" stroke-width="10"/>
 <circle cx="2440" cy="6470" r="68" fill="#ffffff" stroke="#e8590c" stroke-width="12"/>
@@ -305,9 +355,15 @@
 <rect x="4575" y="7845" width="110" height="110" rx="0" fill="#fff" stroke="#c92a2a" stroke-width="12" opacity="1"/>
 <text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="60" fill="#c92a2a" font-weight="bold" text-anchor="middle"><tspan x="4630" y="7921.0">Т</tspan></text>
 <text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="60" fill="#c92a2a" font-weight="bold" text-anchor="middle"><tspan x="4850" y="7921.0">Т2</tspan></text>
-<rect x="1545" y="5645" width="110" height="110" rx="0" fill="#fff" stroke="#c92a2a" stroke-width="12" opacity="1"/>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="60" fill="#c92a2a" font-weight="bold" text-anchor="middle"><tspan x="1600" y="5721.0">Т</tspan></text>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="60" fill="#c92a2a" font-weight="bold" text-anchor="middle"><tspan x="1600" y="5911.0">Т3</tspan></text>
+<rect x="1545" y="5825" width="110" height="110" rx="0" fill="#fff" stroke="#c92a2a" stroke-width="12" opacity="1"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="60" fill="#c92a2a" font-weight="bold" text-anchor="middle"><tspan x="1600" y="5901.0">Т</tspan></text>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="60" fill="#c92a2a" font-weight="bold" text-anchor="middle"><tspan x="1600" y="6071.0">Т3</tspan></text>
+<circle cx="6250" cy="-760" r="230.0" fill="#ffffff" stroke="#555" stroke-width="10"/>
+<path d="M6080.0,-760 L6440.0,-760 M6440.0,-760 L6360.0,-820.0 M6440.0,-760 L6360.0,-700.0" stroke="#c92a2a" stroke-width="22.0" fill="none" stroke-linecap="round"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="110.0" fill="#c92a2a" font-weight="bold" text-anchor="middle"><tspan x="6570.0" y="-721.5">С</tspan></text>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="90.0" fill="#555" font-weight="normal" text-anchor="middle"><tspan x="5920.0" y="-728.5">Ю</tspan></text>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="90.0" fill="#555" font-weight="normal" text-anchor="middle"><tspan x="6250" y="-1058.5">З</tspan></text>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="90.0" fill="#555" font-weight="normal" text-anchor="middle"><tspan x="6250" y="-398.5">В</tspan></text>
 <line x1="0" y1="-650" x2="5610" y2="-650" stroke="#555" stroke-width="8"/>
 <line x1="-50" y1="-600" x2="50" y2="-700" stroke="#555" stroke-width="10"/>
 <line x1="0" y1="-740" x2="0" y2="-560" stroke="#555" stroke-width="6"/>
