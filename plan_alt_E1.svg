@@ -127,35 +127,31 @@
 <circle cx="1800" cy="2640" r="22" fill="#2e7d4f" stroke="none" stroke-width="0"/>
 <rect x="1690.0" y="2265.0" width="220.0" height="110.0" rx="20" fill="#ffffff" stroke="#2e7d4f" stroke-width="8" opacity="1"/>
 <text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="80" fill="#2e7d4f" font-weight="bold" text-anchor="middle"><tspan x="1800.0" y="2348.0">640</tspan></text>
-<rect x="0" y="3040" width="1700" height="700" rx="20" fill="#d2d2d2" stroke="#444" stroke-width="12" opacity="1"/>
-<rect x="300.0" y="3110" width="1100.0" height="80" rx="20" fill="#222" stroke="none" stroke-width="0" opacity="1"/>
-<rect x="600.0" y="3370" width="500.0" height="140" rx="20" fill="#888" stroke="none" stroke-width="0" opacity="1"/>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="80" fill="#222" font-weight="normal" text-anchor="middle"><tspan x="850.0" y="3638.0">стол 1700×700</tspan></text>
-<rect x="1750" y="3040" width="1700" height="700" rx="20" fill="#d2d2d2" stroke="#444" stroke-width="12" opacity="1"/>
-<rect x="2050.0" y="3110" width="1100.0" height="80" rx="20" fill="#222" stroke="none" stroke-width="0" opacity="1"/>
-<rect x="2350.0" y="3370" width="500.0" height="140" rx="20" fill="#888" stroke="none" stroke-width="0" opacity="1"/>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="80" fill="#222" font-weight="normal" text-anchor="middle"><tspan x="2600.0" y="3638.0">стол 1700×700</tspan></text>
-<rect x="610" y="3860" width="480" height="480" rx="60" fill="#9a9a9a" stroke="#444" stroke-width="10" opacity="1"/>
-<rect x="2360" y="3860" width="480" height="480" rx="60" fill="#9a9a9a" stroke="#444" stroke-width="10" opacity="1"/>
-<rect x="0" y="5270" width="3588" height="250" rx="0" fill="#b5651d" stroke="#b5651d" stroke-width="12" opacity="0.18" stroke-dasharray="50,30"/>
-<rect x="0" y="5270" width="3588" height="250" rx="0" fill="none" stroke="#b5651d" stroke-width="12" opacity="1" stroke-dasharray="50,30"/>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="55" fill="#8a4a12" font-weight="bold" text-anchor="middle"><tspan x="1794" y="5419.25">полки на стене над полом (книги, коробки)</tspan></text>
-<rect x="0" y="4900" width="900" height="320" rx="30" fill="#d2d2d2" stroke="#444" stroke-width="12" opacity="1"/>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="55" fill="#222" font-weight="normal" text-anchor="middle"><tspan x="450.0" y="5079.25">МФУ / тумба</tspan></text>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="85" fill="#222" font-weight="bold" text-anchor="start"><tspan x="1500" y="4979.75">рабочая комната 8,9 м²</tspan></text>
-<line x1="3200" y1="3740" x2="3200" y2="4640" stroke="#2e7d4f" stroke-width="10"/>
-<circle cx="3200" cy="3740" r="22" fill="#2e7d4f" stroke="none" stroke-width="0"/>
-<circle cx="3200" cy="4640" r="22" fill="#2e7d4f" stroke="none" stroke-width="0"/>
-<rect x="3090.0" y="4135.0" width="220.0" height="110.0" rx="20" fill="#ffffff" stroke="#2e7d4f" stroke-width="8" opacity="1"/>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="80" fill="#2e7d4f" font-weight="bold" text-anchor="middle"><tspan x="3200.0" y="4218.0">900</tspan></text>
-<line x1="2000" y1="4640" x2="2000" y2="5520" stroke="#2e7d4f" stroke-width="10"/>
-<circle cx="2000" cy="4640" r="22" fill="#2e7d4f" stroke="none" stroke-width="0"/>
-<circle cx="2000" cy="5520" r="22" fill="#2e7d4f" stroke="none" stroke-width="0"/>
-<rect x="1890.0" y="5025.0" width="220.0" height="110.0" rx="20" fill="#ffffff" stroke="#2e7d4f" stroke-width="8" opacity="1"/>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="80" fill="#2e7d4f" font-weight="bold" text-anchor="middle"><tspan x="2000.0" y="5108.0">880</tspan></text>
+<rect x="0" y="3040" width="2000" height="800" rx="20" fill="#d2d2d2" stroke="#444" stroke-width="12" opacity="1"/>
+<rect x="450.0" y="3110" width="1100.0" height="80" rx="20" fill="#222" stroke="none" stroke-width="0" opacity="1"/>
+<rect x="750.0" y="3370" width="500.0" height="140" rx="20" fill="#888" stroke="none" stroke-width="0" opacity="1"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="80" fill="#222" font-weight="normal" text-anchor="middle"><tspan x="1000.0" y="3738.0">стол для ПК 2000×800</tspan></text>
+<rect x="760" y="3960" width="480" height="480" rx="60" fill="#9a9a9a" stroke="#444" stroke-width="10" opacity="1"/>
+<rect x="2100" y="3040" width="1488" height="400" rx="0" fill="#e3e3e3" stroke="#444" stroke-width="12" opacity="1"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="60" fill="#222" font-weight="normal" text-anchor="middle"><tspan x="2844.0" y="3261.0">книжный шкаф 400</tspan></text>
+<rect x="1588" y="4620" width="2000" height="900" rx="30" fill="#e6e6e6" stroke="#444" stroke-width="12" opacity="1"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="70" fill="#222" font-weight="normal" text-anchor="middle"><tspan x="2588.0" y="5094.5">диван-кровать 2 м (гость)</tspan></text>
+<rect x="0" y="5120" width="900" height="400" rx="30" fill="#d2d2d2" stroke="#444" stroke-width="12" opacity="1"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="55" fill="#222" font-weight="normal" text-anchor="middle"><tspan x="450.0" y="5339.25">МФУ / тумба</tspan></text>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="80" fill="#222" font-weight="bold" text-anchor="start"><tspan x="60" y="4928.0">рабочая комната 8,9 м²</tspan></text>
+<line x1="1300" y1="3840" x2="1300" y2="4740" stroke="#2e7d4f" stroke-width="10"/>
+<circle cx="1300" cy="3840" r="22" fill="#2e7d4f" stroke="none" stroke-width="0"/>
+<circle cx="1300" cy="4740" r="22" fill="#2e7d4f" stroke="none" stroke-width="0"/>
+<rect x="1190.0" y="4235.0" width="220.0" height="110.0" rx="20" fill="#ffffff" stroke="#2e7d4f" stroke-width="8" opacity="1"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="80" fill="#2e7d4f" font-weight="bold" text-anchor="middle"><tspan x="1300.0" y="4318.0">900</tspan></text>
+<line x1="2700" y1="3440" x2="2700" y2="4620" stroke="#2e7d4f" stroke-width="10"/>
+<circle cx="2700" cy="3440" r="22" fill="#2e7d4f" stroke="none" stroke-width="0"/>
+<circle cx="2700" cy="4620" r="22" fill="#2e7d4f" stroke="none" stroke-width="0"/>
+<rect x="2560.0" y="3975.0" width="280.0" height="110.0" rx="20" fill="#ffffff" stroke="#2e7d4f" stroke-width="8" opacity="1"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="80" fill="#2e7d4f" font-weight="bold" text-anchor="middle"><tspan x="2700.0" y="4058.0">1180</tspan></text>
 <path d="M5065,8250 L5065,6050 L4350,5300 L4350,2250 L4650,2100" fill="none" stroke="#2e9e5b" stroke-width="150" stroke-linecap="round" stroke-linejoin="round" opacity="0.28"/>
 <path d="M4350,2525 L3300,2525 L2800,2320 L700,2320 L550,1300 L300,900" fill="none" stroke="#2e9e5b" stroke-width="150" stroke-linecap="round" stroke-linejoin="round" opacity="0.28"/>
-<path d="M4350,4125 L3350,4400 L1700,4750" fill="none" stroke="#2e9e5b" stroke-width="150" stroke-linecap="round" stroke-linejoin="round" opacity="0.28"/>
+<path d="M4350,4125 L3350,4150 L1900,4300" fill="none" stroke="#2e9e5b" stroke-width="150" stroke-linecap="round" stroke-linejoin="round" opacity="0.28"/>
 <path d="M5065,6050 L1100,6050 L1100,6900" fill="none" stroke="#2e9e5b" stroke-width="150" stroke-linecap="round" stroke-linejoin="round" opacity="0.28"/>
 <path d="M3150,6050 L3150,6900" fill="none" stroke="#2e9e5b" stroke-width="150" stroke-linecap="round" stroke-linejoin="round" opacity="0.28"/>
 <path d="M4020,6050 L4020,6900" fill="none" stroke="#2e9e5b" stroke-width="150" stroke-linecap="round" stroke-linejoin="round" opacity="0.28"/>
@@ -247,6 +243,6 @@
 <rect x="3300" y="9830" width="400" height="140" rx="0" fill="none" stroke="#c0392b" stroke-width="14" opacity="1" stroke-dasharray="40,30"/>
 <text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="90" fill="#222" font-weight="normal" text-anchor="start"><tspan x="3800" y="9931.5">снесённая стена</tspan></text>
 <text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="85" fill="#444" font-weight="normal" text-anchor="start"><tspan x="-1200" y="10179.75">Без сноса стен. Спальня — только для сна, одежда в гардеробной.</tspan></text>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="85" fill="#444" font-weight="normal" text-anchor="start"><tspan x="-1200" y="10329.75">Рабочая комната: два полноценных места за ПК вдоль глухой стены, полки на стене над полом.</tspan></text>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="85" fill="#444" font-weight="normal" text-anchor="start"><tspan x="-1200" y="10329.75">Рабочая комната: один стол 2000×800, книжный шкаф и диван-кровать для гостя.</tspan></text>
 <text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="180" fill="#222" font-weight="bold" text-anchor="start"><tspan x="-1300" y="-957.0">Вариант E — спальня + рабочая комната (кровать 160)</tspan></text>
 </svg>
