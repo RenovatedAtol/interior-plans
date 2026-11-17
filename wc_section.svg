@@ -1,35 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-320 -230 2700 3150" width="1350" height="1575"><rect x="-320" y="-230" width="2700" height="3150" fill="#ffffff"/>
-<rect x="-250" y="0" width="250" height="2850" rx="0" fill="#2b2b2b" stroke="none" stroke-width="12" opacity="1"/>
-<rect x="-250" y="2700" width="1770" height="150" rx="0" fill="#2b2b2b" stroke="none" stroke-width="12" opacity="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-320 -230 2700 3100" width="1350" height="1550"><rect x="-320" y="-230" width="2700" height="3100" fill="#ffffff"/>
+<rect x="-250" y="0" width="250" height="2800" rx="0" fill="#2b2b2b" stroke="none" stroke-width="12" opacity="1"/>
+<rect x="-250" y="2650" width="1770" height="150" rx="0" fill="#2b2b2b" stroke="none" stroke-width="12" opacity="1"/>
 <rect x="-250" y="0" width="1770" height="150" rx="0" fill="#2b2b2b" stroke="none" stroke-width="12" opacity="1"/>
-<rect x="0" y="150" width="1520" height="2550" rx="0" fill="#f4f3f1" stroke="none" stroke-width="12" opacity="1"/>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="55" fill="#fff" font-weight="normal" text-anchor="middle"><tspan x="760" y="99.25">потолок ≈ 2,5–2,6 м</tspan></text>
-<rect x="0" y="1550" width="220" height="1150" rx="0" fill="#d2d2d2" stroke="#555" stroke-width="10" opacity="1"/>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="42" fill="#222" font-weight="normal" text-anchor="middle" transform="rotate(-90 110 2100)"><tspan x="110" y="2114.7">короб инсталляции</tspan></text>
-<path d="M220,2280 L760,2280 Q790,2340 700,2450 L330,2450 Q240,2430 220,2370 Z" fill="#ffffff" stroke="#555" stroke-width="12"/>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="45" fill="#222" font-weight="normal" text-anchor="middle"><tspan x="480" y="2385.75">унитаз</tspan></text>
-<rect x="0" y="240" width="280" height="510" rx="30" fill="#fff4e6" stroke="#e8590c" stroke-width="14" opacity="1"/>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="50" fill="#e8590c" font-weight="bold" text-anchor="middle"><tspan x="140" y="482.5">бойлер</tspan><tspan x="140" y="542.5">50 л</tspan></text>
+<rect x="0" y="150" width="1520" height="2500" rx="0" fill="#f4f3f1" stroke="none" stroke-width="12" opacity="1"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="55" fill="#fff" font-weight="normal" text-anchor="middle"><tspan x="760" y="99.25">потолок ≈ 2,50 м (натяжной — минус 3–5 см)</tspan></text>
+<rect x="0" y="1500" width="220" height="1150" rx="0" fill="#d2d2d2" stroke="#555" stroke-width="10" opacity="1"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="42" fill="#222" font-weight="normal" text-anchor="middle" transform="rotate(-90 110 2050)"><tspan x="110" y="2064.7">короб инсталляции</tspan></text>
+<path d="M220,2230 L760,2230 Q790,2290 700,2400 L330,2400 Q240,2380 220,2320 Z" fill="#ffffff" stroke="#555" stroke-width="12"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="45" fill="#222" font-weight="normal" text-anchor="middle"><tspan x="480" y="2335.75">унитаз</tspan></text>
+<rect x="0" y="250" width="280" height="500" rx="30" fill="#fff4e6" stroke="#e8590c" stroke-width="14" opacity="1"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="50" fill="#e8590c" font-weight="bold" text-anchor="middle"><tspan x="140" y="487.5">бойлер</tspan><tspan x="140" y="547.5">50 л</tspan></text>
 <rect x="0" y="750" width="140" height="130" rx="0" fill="#ffe8cc" stroke="#e8590c" stroke-width="8" opacity="1"/>
-<circle cx="430" cy="1500" r="105" fill="none" stroke="#868e96" stroke-width="14"/>
-<path d="M420,1605 L470,2230 L760,2230 L760,2700" fill="none" stroke="#868e96" stroke-width="14" stroke-linejoin="round"/>
-<circle cx="1080" cy="1010" r="105" fill="none" stroke="#868e96" stroke-width="14"/>
-<path d="M1080,1115 L1080,1800 L1040,2700 M1080,1800 L1120,2700" fill="none" stroke="#868e96" stroke-width="14"/>
-<line x1="-130" y1="2700" x2="-130" y2="750" stroke="#555" stroke-width="8"/>
-<line x1="-170" y1="2700" x2="-90" y2="2700" stroke="#555" stroke-width="8"/>
+<circle cx="430" cy="1450" r="105" fill="none" stroke="#868e96" stroke-width="14"/>
+<path d="M420,1555 L470,2180 L760,2180 L760,2650" fill="none" stroke="#868e96" stroke-width="14" stroke-linejoin="round"/>
+<circle cx="1080" cy="960" r="105" fill="none" stroke="#868e96" stroke-width="14"/>
+<path d="M1080,1065 L1080,1750 L1040,2650 M1080,1750 L1120,2650" fill="none" stroke="#868e96" stroke-width="14"/>
+<line x1="-130" y1="2650" x2="-130" y2="750" stroke="#555" stroke-width="8"/>
+<line x1="-170" y1="2650" x2="-90" y2="2650" stroke="#555" stroke-width="8"/>
 <line x1="-170" y1="750" x2="-90" y2="750" stroke="#555" stroke-width="8"/>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="50" fill="#ddd" font-weight="normal" text-anchor="middle" transform="rotate(-90 -180 1725)"><tspan x="-180" y="1742.5">1950</tspan></text>
-<line x1="430" y1="1395" x2="430" y2="750" stroke="#2e7d4f" stroke-width="8"/>
-<line x1="390" y1="1395" x2="470" y2="1395" stroke="#2e7d4f" stroke-width="8"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="50" fill="#ddd" font-weight="normal" text-anchor="middle" transform="rotate(-90 -180 1700)"><tspan x="-180" y="1717.5">1900</tspan></text>
+<line x1="430" y1="1345" x2="430" y2="750" stroke="#2e7d4f" stroke-width="8"/>
+<line x1="390" y1="1345" x2="470" y2="1345" stroke="#2e7d4f" stroke-width="8"/>
 <line x1="390" y1="750" x2="470" y2="750" stroke="#2e7d4f" stroke-width="8"/>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="44" fill="#2e7d4f" font-weight="bold" text-anchor="start"><tspan x="480" y="1195.4">≈ 65 см от головы сидящего</tspan></text>
-<line x1="280" y1="1010" x2="975" y2="1010" stroke="#2e7d4f" stroke-width="8"/>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="44" fill="#2e7d4f" font-weight="bold" text-anchor="middle"><tspan x="760" y="970.4">≈ 70 см</tspan></text>
-<line x1="1250" y1="905" x2="1250" y2="750" stroke="#2e7d4f" stroke-width="8"/>
-<line x1="1210" y1="905" x2="1290" y2="905" stroke="#2e7d4f" stroke-width="8"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="44" fill="#2e7d4f" font-weight="bold" text-anchor="start"><tspan x="480" y="1145.4">≈ 60 см от головы сидящего</tspan></text>
+<line x1="280" y1="960" x2="975" y2="960" stroke="#2e7d4f" stroke-width="8"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="44" fill="#2e7d4f" font-weight="bold" text-anchor="middle"><tspan x="760" y="920.4">≈ 70 см</tspan></text>
+<line x1="1250" y1="855" x2="1250" y2="750" stroke="#2e7d4f" stroke-width="8"/>
+<line x1="1210" y1="855" x2="1290" y2="855" stroke="#2e7d4f" stroke-width="8"/>
 <line x1="1210" y1="750" x2="1290" y2="750" stroke="#2e7d4f" stroke-width="8"/>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="42" fill="#2e7d4f" font-weight="bold" text-anchor="start"><tspan x="1310" y="814.7">низ бойлера на 15 см выше головы стоящего,</tspan></text>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="42" fill="#2e7d4f" font-weight="bold" text-anchor="start"><tspan x="1310" y="874.7">но стоящий — в 70 см от стены</tspan></text>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="40" fill="#8a4a12" font-weight="normal" text-anchor="start"><tspan x="300" y="664.0">краны и группа безопасности под бойлером</tspan></text>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="42" fill="#2e7d4f" font-weight="bold" text-anchor="start"><tspan x="1310" y="764.7">низ бойлера на 10 см выше головы стоящего,</tspan></text>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="42" fill="#2e7d4f" font-weight="bold" text-anchor="start"><tspan x="1310" y="824.7">но стоящий — в 70 см от стены</tspan></text>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="40" fill="#8a4a12" font-weight="normal" text-anchor="start"><tspan x="300" y="674.0">краны и группа безопасности под бойлером</tspan></text>
 <text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="75" fill="#222" font-weight="bold" text-anchor="start"><tspan x="-300" y="-93.75">Туалет в разрезе: бойлер под потолком на стене за унитазом</tspan></text>
 </svg>
