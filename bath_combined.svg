@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="2000 5600 2700 3100" width="385" height="442"><rect x="2000" y="5600" width="2700" height="3100" fill="#ffffff"/>
+<rect x="2100" y="5900" width="2465" height="580" rx="0" fill="#f4f3f1" stroke="none" stroke-width="12" opacity="1"/>
+<rect x="2000" y="8100" width="2700" height="250" rx="0" fill="#2b2b2b" stroke="none" stroke-width="12" opacity="1"/>
+<rect x="2200" y="6580" width="2265" height="1520" rx="0" fill="#e2e6ea" stroke="none" stroke-width="12" opacity="1"/>
+<rect x="2100" y="6480" width="100" height="1620" rx="0" fill="#2b2b2b" stroke="none" stroke-width="12" opacity="1"/>
+<rect x="4465" y="6580" width="100" height="1520" rx="0" fill="#2b2b2b" stroke="none" stroke-width="12" opacity="1"/>
+<rect x="2100" y="6480" width="750" height="100" rx="0" fill="#2b2b2b" stroke="none" stroke-width="12" opacity="1"/>
+<rect x="3450" y="6480" width="1115" height="100" rx="0" fill="#2b2b2b" stroke="none" stroke-width="12" opacity="1"/>
+<rect x="3520" y="6580" width="100" height="1520" rx="0" fill="none" stroke="#c0392b" stroke-width="14" opacity="1" stroke-dasharray="40,30"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="10" fill="#222" font-weight="normal" text-anchor="middle"><tspan x="3570" y="6433.5"></tspan></text>
+<rect x="2230" y="6425" width="640" height="50" rx="0" fill="#cfe3f1" stroke="#333" stroke-width="8" opacity="1"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="55" fill="#555" font-weight="normal" text-anchor="middle"><tspan x="2560" y="6359.25">раздвижная</tspan></text>
+<rect x="2200" y="7350" width="1700" height="750" rx="40" fill="#ffffff" stroke="#4a7c99" stroke-width="14" opacity="1"/>
+<rect x="2270" y="7420" width="1560" height="610" rx="160" fill="#d7eaf4" stroke="#7aa6bf" stroke-width="8" opacity="1"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="75" fill="#2d5870" font-weight="normal" text-anchor="middle"><tspan x="3050.0" y="7751.25">ванна 170×75</tspan></text>
+<rect x="2200" y="6600" width="600" height="600" rx="30" fill="#ffffff" stroke="#444" stroke-width="12" opacity="1"/>
+<circle cx="2500" cy="6900" r="200" fill="#e8eef2" stroke="#666" stroke-width="10"/>
+<ellipse cx="2500" cy="6900" rx="270" ry="250" fill="none" stroke="#888" stroke-width="16"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="65" fill="#222" font-weight="normal" text-anchor="middle"><tspan x="2500" y="6922.75">стир.</tspan></text>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="45" fill="#333" font-weight="normal" text-anchor="middle"><tspan x="2500" y="7270.75">раковина над стиралкой</tspan></text>
+<rect x="4265" y="6730" width="200" height="480" rx="0" fill="#d2d2d2" stroke="#555" stroke-width="8" opacity="1"/>
+<ellipse cx="4010" cy="6970" rx="260" ry="180" fill="#ffffff" stroke="#555" stroke-width="10"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="60" fill="#333" font-weight="bold" text-anchor="middle"><tspan x="3330" y="7291.0">совмещённый с/у</tspan></text>
+<line x1="2800" y1="7150" x2="3750" y2="7150" stroke="#2e7d4f" stroke-width="10"/>
+<circle cx="2800" cy="7150" r="22" fill="#2e7d4f" stroke="none" stroke-width="0"/>
+<circle cx="3750" cy="7150" r="22" fill="#2e7d4f" stroke="none" stroke-width="0"/>
+<rect x="3165.0" y="7095.0" width="220.0" height="110.0" rx="20" fill="#ffffff" stroke="#2e7d4f" stroke-width="8" opacity="1"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="80" fill="#2e7d4f" font-weight="bold" text-anchor="middle"><tspan x="3275.0" y="7178.0">950</tspan></text>
+<line x1="3150" y1="6970" x2="3750" y2="6970" stroke="#2e7d4f" stroke-width="10"/>
+<circle cx="3150" cy="6970" r="22" fill="#2e7d4f" stroke="none" stroke-width="0"/>
+<circle cx="3750" cy="6970" r="22" fill="#2e7d4f" stroke="none" stroke-width="0"/>
+<rect x="3340.0" y="6915.0" width="220.0" height="110.0" rx="20" fill="#ffffff" stroke="#2e7d4f" stroke-width="8" opacity="1"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="80" fill="#2e7d4f" font-weight="bold" text-anchor="middle"><tspan x="3450.0" y="6998.0">600</tspan></text>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="120" fill="#222" font-weight="bold" text-anchor="start"><tspan x="2100" y="5842.0">Ванна 170 — санузел совмещённый</tspan></text>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="75" fill="#444" font-weight="normal" text-anchor="start"><tspan x="2100" y="8576.25">одна дверь; туалет + стиралка + ванна в одном помещении</tspan></text>
+</svg>
