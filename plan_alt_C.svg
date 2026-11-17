@@ -126,8 +126,8 @@
 <rect x="3358" y="4700" width="170" height="740" rx="40" fill="#ffffff" stroke="#888" stroke-width="8" opacity="1"/>
 <text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="95" fill="#222" font-weight="normal" text-anchor="middle"><tspan x="2488.0" y="5103.25">кровать 90×200</tspan></text>
 <rect x="0" y="5120" width="1400" height="400" rx="30" fill="#d2d2d2" stroke="#444" stroke-width="12" opacity="1"/>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="65" fill="#222" font-weight="normal" text-anchor="middle"><tspan x="700.0" y="5342.75">комод / игрушки</tspan></text>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="80" fill="#222" font-weight="bold" text-anchor="start"><tspan x="60" y="4878.0">детская / кабинет 8,9 м²</tspan></text>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="65" fill="#222" font-weight="normal" text-anchor="middle"><tspan x="700.0" y="5342.75">комод / стеллаж</tspan></text>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="80" fill="#222" font-weight="bold" text-anchor="start"><tspan x="60" y="4878.0">кабинет 8,9 м²</tspan></text>
 <path d="M5065,8250 L5065,6050 L4350,5300 L4000,3000" fill="none" stroke="#2e9e5b" stroke-width="150" stroke-linecap="round" stroke-linejoin="round" opacity="0.28"/>
 <path d="M4000,2700 L3300,2525 L3000,2300 L3050,1450 L3900,1450" fill="none" stroke="#2e9e5b" stroke-width="150" stroke-linecap="round" stroke-linejoin="round" opacity="0.28"/>
 <path d="M3050,2320 L700,2320 L550,1300 L300,900" fill="none" stroke="#2e9e5b" stroke-width="150" stroke-linecap="round" stroke-linejoin="round" opacity="0.28"/>
@@ -243,5 +243,5 @@
 <text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="90" fill="#222" font-weight="normal" text-anchor="start"><tspan x="3800" y="9931.5">снесённая стена</tspan></text>
 <text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="85" fill="#444" font-weight="normal" text-anchor="start"><tspan x="-1200" y="10179.75">Новый проём из спальни в гардеробную, дверь из холла закладывается; объединение ванной и туалета.</tspan></text>
 <text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="85" fill="#444" font-weight="normal" text-anchor="start"><tspan x="-1200" y="10329.75">Требует согласования.</tspan></text>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="180" fill="#222" font-weight="bold" text-anchor="start"><tspan x="-1300" y="-957.0">Вариант C — спальня с гардеробной + детская, ванна 170</tspan></text>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="180" fill="#222" font-weight="bold" text-anchor="start"><tspan x="-1300" y="-957.0">Вариант C — спальня с гардеробной + кабинет, ванна 170</tspan></text>
 </svg>
