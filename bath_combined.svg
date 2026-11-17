@@ -36,5 +36,8 @@
 <rect x="3790.0" y="6915.0" width="220.0" height="110.0" rx="20" fill="#ffffff" stroke="#2e7d4f" stroke-width="8" opacity="1"/>
 <text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="80" fill="#2e7d4f" font-weight="bold" text-anchor="middle"><tspan x="3900.0" y="6998.0">740</tspan></text>
 <text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="120" fill="#222" font-weight="bold" text-anchor="start"><tspan x="2100" y="5842.0">Ванна 150 — санузел совмещённый</tspan></text>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="75" fill="#444" font-weight="normal" text-anchor="start"><tspan x="2100" y="8576.25">одна дверь; стиралка на кухне; стояк и змейка на месте</tspan></text>
+<rect x="2100" y="8440" width="220" height="220" rx="12" fill="#ffffff" stroke="#555" stroke-width="10" opacity="1"/>
+<circle cx="2210" cy="8550" r="80" fill="#e8eef2" stroke="#666" stroke-width="8"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="66" fill="#222" font-weight="bold" text-anchor="start"><tspan x="2370" y="8523.1">стиральная машина 60×55×85 — на кухне,</tspan></text>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="62" fill="#444" font-weight="normal" text-anchor="start"><tspan x="2370" y="8631.7">под столешницей рядом с плитой; одна дверь</tspan></text>
 </svg>
