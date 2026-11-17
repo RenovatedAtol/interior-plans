@@ -266,10 +266,4 @@
 <text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="65" fill="#222" font-weight="normal" text-anchor="start"><tspan x="3850" y="8672.75">датчик протечки</tspan></text>
 <rect x="-500" y="5150" width="5400" height="300" rx="0" fill="#ffffff" stroke="none" stroke-width="12" opacity="1"/>
 <text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="110" fill="#222" font-weight="bold" text-anchor="start"><tspan x="-350" y="5368.5">Сантехника — мокрая зона (основная планировка)</tspan></text>
-<circle cx="4550" cy="5650" r="103.5" fill="#ffffff" stroke="#555" stroke-width="10"/>
-<path d="M4473.5,5650 L4635.5,5650 M4635.5,5650 L4599.5,5623.0 M4635.5,5650 L4599.5,5677.0" stroke="#c92a2a" stroke-width="9.9" fill="none" stroke-linecap="round"/>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="49.5" fill="#c92a2a" font-weight="bold" text-anchor="middle"><tspan x="4694.0" y="5667.325">С</tspan></text>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="40.5" fill="#555" font-weight="normal" text-anchor="middle"><tspan x="4401.5" y="5664.175">Ю</tspan></text>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="40.5" fill="#555" font-weight="normal" text-anchor="middle"><tspan x="4550" y="5515.675">З</tspan></text>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="40.5" fill="#555" font-weight="normal" text-anchor="middle"><tspan x="4550" y="5812.675">В</tspan></text>
 </svg>

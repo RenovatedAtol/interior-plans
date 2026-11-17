@@ -296,12 +296,6 @@
 <rect x="1900" y="3640" width="1688" height="980" rx="0" fill="url(#heat3)" stroke="#f2c94c" stroke-width="12" opacity="0.75" stroke-dasharray="50,30"/>
 <rect x="1380.0" y="4120" width="840.0" height="120" rx="24" fill="#fff" stroke="#f2c94c" stroke-width="10" opacity="1"/>
 <text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="70" fill="#8a3a00" font-weight="bold" text-anchor="middle"><tspan x="1800" y="4204.5">3,3 м² · 500 Вт</tspan></text>
-<circle cx="6250" cy="-760" r="230.0" fill="#ffffff" stroke="#555" stroke-width="10"/>
-<path d="M6080.0,-760 L6440.0,-760 M6440.0,-760 L6360.0,-820.0 M6440.0,-760 L6360.0,-700.0" stroke="#c92a2a" stroke-width="22.0" fill="none" stroke-linecap="round"/>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="110.0" fill="#c92a2a" font-weight="bold" text-anchor="middle"><tspan x="6570.0" y="-721.5">С</tspan></text>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="90.0" fill="#555" font-weight="normal" text-anchor="middle"><tspan x="5920.0" y="-728.5">Ю</tspan></text>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="90.0" fill="#555" font-weight="normal" text-anchor="middle"><tspan x="6250" y="-1058.5">З</tspan></text>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="90.0" fill="#555" font-weight="normal" text-anchor="middle"><tspan x="6250" y="-398.5">В</tspan></text>
 <line x1="0" y1="-650" x2="5610" y2="-650" stroke="#555" stroke-width="8"/>
 <line x1="-50" y1="-600" x2="50" y2="-700" stroke="#555" stroke-width="10"/>
 <line x1="0" y1="-740" x2="0" y2="-560" stroke="#555" stroke-width="6"/>
