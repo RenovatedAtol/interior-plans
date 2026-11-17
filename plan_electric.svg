@@ -204,8 +204,9 @@
 <rect x="5520" y="6050" width="90" height="400" rx="0" fill="#343a40" stroke="#222" stroke-width="8" opacity="1"/>
 <text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="80" fill="#343a40" font-weight="bold" text-anchor="middle"><tspan x="5300" y="6278.0">ЩК</tspan></text>
 <rect x="5520" y="5650" width="90" height="330" rx="0" fill="#7048e8" stroke="#222" stroke-width="8" opacity="1"/>
-<path d="M5520,5815 L4350,5815 L4350,2100 L2500,2100 L2500,60 L1700,60" fill="none" stroke="#7048e8" stroke-width="14" stroke-linejoin="round" stroke-linecap="round" opacity="0.8" stroke-dasharray="60,40"/>
-<path d="M4350,4500 L1150,4500 L1150,3080" fill="none" stroke="#7048e8" stroke-width="14" stroke-linejoin="round" stroke-linecap="round" opacity="0.8" stroke-dasharray="60,40"/>
+<path d="M5520,5815 L3790,5815 L3790,2525 L3540,2525 L3540,60 L1700,60" fill="none" stroke="#7048e8" stroke-width="14" stroke-linejoin="round" stroke-linecap="round" opacity="0.8" stroke-dasharray="60,40"/>
+<path d="M3790,4120 L3540,4120 L3540,3090 L1150,3090" fill="none" stroke="#7048e8" stroke-width="14" stroke-linejoin="round" stroke-linecap="round" opacity="0.8" stroke-dasharray="60,40"/>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="50" fill="#7048e8" font-weight="bold" text-anchor="middle" transform="rotate(-90 3990 3600)"><tspan x="3990" y="3617.5">LAN в полу</tspan></text>
 <rect x="1755" y="15" width="90" height="90" rx="0" fill="#7048e8" stroke="#222" stroke-width="6" opacity="1"/>
 <rect x="1105" y="3035" width="90" height="90" rx="0" fill="#7048e8" stroke="#222" stroke-width="6" opacity="1"/>
 <circle cx="1800" cy="1470" r="85" fill="#fff3bf" stroke="#d4a017" stroke-width="12"/>
@@ -446,7 +447,7 @@
 <text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="60" fill="#c92a2a" font-weight="bold" text-anchor="middle"><tspan x="2100" y="10141.0">Т</tspan></text>
 <text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="78" fill="#222" font-weight="normal" text-anchor="start"><tspan x="2250" y="10147.3">терморегулятор тёплого пола</tspan></text>
 <path d="M5300,10120 L5800,10120" stroke="#7048e8" stroke-width="14" stroke-dasharray="60,40"/>
-<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="78" fill="#222" font-weight="normal" text-anchor="start"><tspan x="5900" y="10147.3">кабель Cat6 к столам</tspan></text>
+<text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="78" fill="#222" font-weight="normal" text-anchor="start"><tspan x="5900" y="10147.3">Cat6 в полу, в гофре</tspan></text>
 <text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="75" fill="#444" font-weight="normal" text-anchor="start"><tspan x="-1200" y="10426.25">ЩК — квартирный щит; рядом слаботочный щит с роутером. Высоты — от чистого пола до центра розетки.</tspan></text>
 <text font-family="Noto Sans, DejaVu Sans, Arial, sans-serif" font-size="180" fill="#222" font-weight="bold" text-anchor="start"><tspan x="-1300" y="-957.0">Электрика — основная планировка</tspan></text>
 </svg>
